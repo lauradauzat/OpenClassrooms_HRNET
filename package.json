@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage" : "https://lauradauzat.github.io/OpenClassrooms_HRNET.git",
+  "homepage" : "https://lauradauzat.github.io/OpenClassrooms_HRNET",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
