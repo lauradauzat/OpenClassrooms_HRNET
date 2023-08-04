@@ -15,6 +15,7 @@ const employeesSlice = createSlice({
   });
   
 
+
 export const { addEmployee } = employeesSlice.actions;
 
 const store = configureStore({
@@ -26,3 +27,4 @@ const store = configureStore({
 
 
 export { store};
+
